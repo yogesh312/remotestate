@@ -1,0 +1,32 @@
+{
+  "name": "remotestate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh312/remotestate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh312/remotestate/issues"
+  },
+  "homepage": "https://github.com/yogesh312/remotestate#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "js-sha256": "^0.9.0",
+    "jwt-then": "^1.0.1",
+    "mongoose": "^6.0.8",
+    "mongoose-paginate": "^5.0.3",
+    "mongoose-type-email": "^1.1.2",
+    "nodemon": "^2.0.13"
+  }
+}
