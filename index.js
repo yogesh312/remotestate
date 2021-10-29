@@ -31,8 +31,4 @@ const server = app.listen(8000, () => {
 
 const jwt = require("jwt-then");
 
-//const Message = mongoose.model("Message");
-const User = mongoose.model("User");
-const List = mongoose.model("List");
-const Rating = mongoose.model("Rating");
 
